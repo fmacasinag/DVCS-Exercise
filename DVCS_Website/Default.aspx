@@ -5,6 +5,8 @@
     <div class="jumbotron">
         <h1>DMIT 2018</h1>
         <p class="lead">Intermediate Application Development</p>
+        <p class="lead">Section A02</p>
+        <p>Instructor: Dan Gilleland</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
